@@ -3,8 +3,13 @@
 <br><h1>Starnya Slurrr</br></h1>
 # Installation
 pkg install git python python2
+
 pip2 install mechanize requests
+
 cd afbc
+
 python2 meki.py
+
+
 # INSTAGRAM
 <a href ="https://instagram.com/redbot.termux">Check my Instagram</a>
